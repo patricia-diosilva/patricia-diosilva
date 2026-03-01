@@ -37,14 +37,6 @@ Aplicação de pagamentos real utilizada para praticar testes com Cypress em cen
 
 ---
 
-## 💬 Um pouco sobre mim
-
-Antes de entrar na tech, trabalhei diretamente com pessoas — e isso me ensinou que qualidade não é só sobre código, é sobre **experiência**. Cada bug corrigido é um usuário que não vai se frustrar. Cada teste bem escrito é confiança entregue.
-
-Estou em transição de carreira com muito estudo, dedicação e vontade de crescer. 🌱
-
----
-
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciadiosilva)
