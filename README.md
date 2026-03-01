@@ -37,6 +37,16 @@ Aplicação de pagamentos real utilizada para praticar testes com Cypress em cen
 
 ---
 
+## 💬 Um pouco sobre mim
+
+Não foi um caminho planejado — foi uma busca. Estava em busca de algo que me trouxesse mais satisfação, mais confiança, mais vontade. A área de QA apareceu no meio dessa procura e algo clicou.
+
+Vim do atendimento ao cliente, e levo isso comigo: a atenção aos detalhes que só quem lidou com pessoas no dia a dia desenvolve, a paciência pra investigar um problema até o fim, e a empatia de lembrar que do outro lado de cada bug tem um usuário real.
+
+Sou curiosa, bem humorada e dedicada — e estou construindo essa nova trajetória com muito estudo e uma boa dose de determinação. 🌱
+
+---
+
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciadiosilva)
