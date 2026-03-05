@@ -2,8 +2,6 @@
 
 ### QA Engineer em formação | Transição de carreira para tech 🚀
 
-Vim da área de atendimento ao cliente — fui ASB, recepcionista e CS — e trouxe comigo o que aprendi lá: **atenção aos detalhes, empatia pelo usuário e compromisso com a qualidade**. Hoje aplico tudo isso na automação de testes.
-
 Estou em busca da minha **primeira vaga na área de QA / Testes**, com foco em garantir que o software funcione da melhor forma possível para quem vai usá-lo.
 
 ---
@@ -39,7 +37,7 @@ Aplicação de pagamentos real utilizada para praticar testes com Cypress em cen
 
 ## 💬 Um pouco sobre mim
 
-Não foi um caminho planejado — foi uma busca. Estava em busca de algo que me trouxesse mais satisfação, mais confiança, mais vontade. A área de QA apareceu no meio dessa procura e algo clicou.
+Não foi um caminho planejado... Estava em busca de algo que me trouxesse mais satisfação, mais confiança, mais vontade. A área de QA apareceu no meio dessa procura e algo clicou.
 
 Vim do atendimento ao cliente, e levo isso comigo: a atenção aos detalhes que só quem lidou com pessoas no dia a dia desenvolve, a paciência pra investigar um problema até o fim, e a empatia de lembrar que do outro lado de cada bug tem um usuário real.
 
