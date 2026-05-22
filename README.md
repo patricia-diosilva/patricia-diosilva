@@ -1,8 +1,9 @@
 # Olá, eu sou a Patrícia Silva 👋
-
 ### QA Engineer | Transição de carreira para tech 🚀
 
 Estou em busca da minha **primeira vaga na área de QA / Testes**, com foco em garantir que o software funcione da melhor forma possível para quem vai usá-lo.
+
+Atualmente atuando como **QA Engineer Voluntária na LumeStack**.
 
 ---
 
@@ -11,8 +12,23 @@ Estou em busca da minha **primeira vaga na área de QA / Testes**, com foco em g
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💼 Experiência
+
+### 🔍 QA Engineer Voluntária · LumeStack
+**Mai/2026 – Presente · Remoto**
+
+Atuação em projeto real (LumeAcademy), plataforma de comunidade em desenvolvimento:
+- Execução de testes manuais, smoke test e testes de regressão
+- Identificação, análise e reporte de bugs via LumeHub
+- Testes funcionais, exploratórios e avaliação de UX em homologação
+- Apoio na validação de funcionalidades antes do lançamento oficial
 
 ---
 
@@ -27,9 +43,10 @@ Aplicação de pagamentos real utilizada para praticar testes com Cypress em cen
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Conhecimentos
 
 - Automação de testes com **Cypress**
+- **Robot Framework** com padrão **BDD** (Em andamento)
 - Boas práticas de QA e escrita de casos de teste
 - **TypeScript** aplicado a testes
 
@@ -41,7 +58,7 @@ Não foi um caminho planejado... Estava em busca de algo que me trouxesse mais s
 
 Vim do atendimento ao cliente, e levo isso comigo: a atenção aos detalhes que só quem lidou com pessoas no dia a dia desenvolve, a paciência pra investigar um problema até o fim, e a empatia de lembrar que do outro lado de cada bug tem um usuário real.
 
-Sou curiosa, bem humorada e dedicada — e estou construindo essa nova trajetória com muito estudo e uma boa dose de determinação. 🌱
+Sou curiosa, bem humorada e dedicada e estou construindo essa nova trajetória com muito estudo e uma boa dose de determinação. 🌱
 
 ---
 
