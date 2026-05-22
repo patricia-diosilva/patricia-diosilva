@@ -1,6 +1,6 @@
 # Olá, eu sou a Patrícia Silva 👋
 
-### QA Engineer em formação | Transição de carreira para tech 🚀
+### QA Engineer | Transição de carreira para tech 🚀
 
 Estou em busca da minha **primeira vaga na área de QA / Testes**, com foco em garantir que o software funcione da melhor forma possível para quem vai usá-lo.
 
